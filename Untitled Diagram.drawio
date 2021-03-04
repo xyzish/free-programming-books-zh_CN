@@ -1,9 +1,30 @@
-<mxfile host="app.diagrams.net" modified="2021-01-21T09:30:45.668Z" agent="5.0 (Windows)" etag="l916A67FqeluRspoRdc-" version="14.2.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-04T03:33:31.578Z" agent="5.0 (Windows)" etag="goOtaIf1P2IRfqYPSxkT" version="14.2.6" type="github">
   <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="Page-1">
     <mxGraphModel dx="990" dy="763" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="Xap_avvRpXtx5LgjifJW-11" value="&lt;div align=&quot;right&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="160" y="380" width="370" height="370" as="geometry" />
+        </mxCell>
+        <mxCell id="Xap_avvRpXtx5LgjifJW-12" value="RTPlan JSON File" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="220" y="450" width="170" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="Xap_avvRpXtx5LgjifJW-13" value="&lt;font style=&quot;font-size: 15px&quot;&gt;&lt;b&gt;Mock.DICOMBridge&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="275" y="410" width="150" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Xap_avvRpXtx5LgjifJW-15" value="&lt;div&gt;&lt;b&gt;API&lt;/b&gt;&lt;/div&gt;&lt;div&gt;RTPlan GetRTPlan(string uid)&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="520" width="170" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="Xap_avvRpXtx5LgjifJW-16" value="&lt;div style=&quot;font-size: 17px&quot;&gt;&lt;font style=&quot;font-size: 17px&quot;&gt;TSM&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 17px&quot;&gt;&lt;font style=&quot;font-size: 17px&quot;&gt;Service&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="860" y="467" width="270" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="Xap_avvRpXtx5LgjifJW-17" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="590" y="80" width="290" height="290" as="geometry" />
+        </mxCell>
+        <mxCell id="Xap_avvRpXtx5LgjifJW-18" value="&lt;div style=&quot;text-align: left ; line-height: 1.75 ; font-size: 16px&quot;&gt;&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;AddTreatmentSessionCommand&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left ; line-height: 1.75 ; font-size: 16px&quot;&gt;&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Trigger&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="650" y="130" width="170" height="20" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
